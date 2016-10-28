@@ -8,6 +8,8 @@ var key1 = {
 storeValue("key1", key1)
 
 var key2 = {
-  nestedkey1: {nestedkey2: {nestedKey5: {notAsNestedKey: "I'm not as nested!"}}, nestedkey3: {nestedKey4
+  nestedkey1: {nestedkey2: {nestedKey5: {notAsNestedKey: "I'm not as nested!"}}, nestedkey3: {nestedKey4: {reallyNestedKey: "I'm deeply nested!"}}}
+}
+
+storeValue("key2", key2);
     
-    }
