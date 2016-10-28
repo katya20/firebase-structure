@@ -18,7 +18,11 @@ var key3 = "just me!"
 storeValue("key3", key3)
 
 var listKey = {
-  listItemKey1: 
+  listItemKey1: "hola!",
+  listItemKey2: "adios!"
+}
+
+addListItem("listKey", 
 
 
     
