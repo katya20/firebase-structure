@@ -1,3 +1,3 @@
 console.log("time to add some firebase code!")
 
-addListItem("hi!", ")
+addListItem("key1", "hi!")
