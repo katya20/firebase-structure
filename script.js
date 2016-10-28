@@ -5,4 +5,4 @@ var key1 = {
   nestedKey2: "bye!",
 }
 
-addListItem("key1", key1)
+storeValue("key1", key1)
