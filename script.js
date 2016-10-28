@@ -6,3 +6,7 @@ var key1 = {
 }
 
 storeValue("key1", key1)
+
+var key2 = {
+  nestedKey1 = {
+    nestedKey5
