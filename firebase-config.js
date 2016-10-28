@@ -27,7 +27,7 @@ function deleteValue(name) {
 }
 
 function onNewValue(name, callback) {	
-  store.child(name).child(name).on("value", function(data) {		
+  store.child(name).child(name).on("value", function(data) {	
     callback(data.val());
   })
 }
