@@ -13,6 +13,12 @@ var key2 = {
 
 storeValue("key2", key2)
 
-var key3: "just me!"
+var key3 = "just me!"
+
+storeValue("key3", key3)
+
+var listKey = {
+  listItemKey1: 
+
 
     
